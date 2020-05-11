@@ -1,0 +1,13 @@
+{
+  "ftp://ftp.webcindario.com:21@chatbotcentro": {
+    "index.html": {
+      "type": "-",
+      "size": 242,
+      "lmtime": 0,
+      "modified": false
+    },
+    "tmp": {},
+    "web": {}
+  },
+  "$version": 1
+}
